@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DVdQq04fIMH7FJbSUmRQOp+0iTp/dOSmlquwDU9B6gk=",
+  "Hash": "7CyMYt05wSCDkjtsFgw8DVIYlM1C9PDLM14mfBBjPzA=",
   "Source": "BookShopWeb",
   "BasePath": "_content/BookShopWeb",
   "Mode": "Default",
@@ -51,12 +51,12 @@
       "OriginalItemSpec": "D:\\ASP\\BookShop\\BookShopWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookShopWeb.bundle.scp.css"
     },
     {
-      "Identity": "D:\\ASP\\BookShop\\BookShopWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "Identity": "D:\\ASP\\BookShop\\BookShopWeb\\wwwroot\\css\\BootswatchTheme.css",
       "SourceId": "BookShopWeb",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASP\\BookShop\\BookShopWeb\\wwwroot\\",
       "BasePath": "_content/BookShopWeb",
-      "RelativePath": "css/bootswatchTheme.css",
+      "RelativePath": "css/BootswatchTheme.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -65,7 +65,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
+      "OriginalItemSpec": "wwwroot\\css\\BootswatchTheme.css"
     },
     {
       "Identity": "D:\\ASP\\BookShop\\BookShopWeb\\wwwroot\\css\\site.css",
